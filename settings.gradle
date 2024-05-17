@@ -1,0 +1,11 @@
+rootProject.name = 'logisfactory'
+include 'bps-board-api'
+include 'bps-member-api'
+include 'tms-transportation-service'
+include 'bps-member-service'
+include 'bps-board-service'
+include 'business-process-servcie'
+include 'transportation-management-service'
+include 'board-service'
+include 'member-service'
+
